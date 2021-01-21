@@ -1,4 +1,8 @@
 /* applies to anything of class "example-class-selector" */
+.jumbotron p.active {
+     color: #1f6ddd;
+}
+
 .example-class-selector {
 	margin-top: 2em;
 }
